@@ -1,0 +1,48 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "19-343-4308",
+  "taxFormId" : "8137421",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0452372",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Schmidt-Reichel"
+    },
+    "address" : {
+      "line1" : "00202 Steuber Pike",
+      "city" : "North Lymanberg",
+      "region" : "MS",
+      "postalCode" : "34334"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "dena.ritchie@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-33-9601",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Benton",
+      "last" : "Bernhard"
+    },
+    "address" : {
+      "line1" : "194 Elisha Ridges",
+      "city" : "New Sandy",
+      "region" : "RI",
+      "postalCode" : "71198"
+    },
+    "email" : "son.upton@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "041-16573-3",
+  "dateOfEvent" : "2025-08-20",
+  "amountDischarged" : 200,
+  "interestIncluded" : 300,
+  "debtDescription" : "debtDescription",
+  "personallyLiable" : true,
+  "debtCode" : "debtCode",
+  "fairMarketValue" : 400
+}
